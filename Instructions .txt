@@ -1,0 +1,14 @@
+项目名称：OICQ协议识别器
+
+类别：A
+
+完成情况：
+	1）捕获OICQ协议报文，完成常用端口统计；
+	2）OICQ协议还原，提取：版本号、命令字、QQ_id等信息，能够识别不同命令字含义；
+	3）OICQ协议报文内容识别，完成对文本、图片、文件的识别；提取文件特征码，利用WM算法，进行多模式匹配，能够准确识别文件类型；
+	4）Windows SDK编程完成软件框架（界面、操作等），连接MySQL数据库存储查询历史数据，支持查询。	
+
+运行备注：
+	1）将WpdPack压缩包解压后，放置路径D:\program files (x86)\WpdPack\
+	2）将MySQL Server 5.7压缩包解压后，放置路径C:\Program Files (x86)\MySQL\MySQL Server 5.7\
+	3）环境配置好之后，可以直接运行Release\Project.exe，也可以用Visual Studio 2013打开工程进行运行
