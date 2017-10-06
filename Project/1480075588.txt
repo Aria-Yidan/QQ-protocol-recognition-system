@@ -1,0 +1,25 @@
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:8d69	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:b6dc	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:01b6	sequence:7aa4	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:01b6	sequence:7aa4	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:790a	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:3095	QQ_id:1171124655
+
+
+Get 500 packet	TCP: 437 packet	UDP: 39 packet	OICQ: 6 packet

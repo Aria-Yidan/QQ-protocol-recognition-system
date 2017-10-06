@@ -1,0 +1,285 @@
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:6dd0	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:bf0a	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:781e	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:7838	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:c6bf	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:46d3	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:6bbb	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:84b7	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:1a26	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:00ce	sequence:0bf2	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:00ce	sequence:0bf2	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0352	sequence:28c8	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0352	sequence:28c8	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:00b9	sequence:4ee3	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:6812	command:00b9	sequence:4ee3	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:00ce	sequence:0bf3	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:00ce	sequence:0bf3	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:98db	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0319	sequence:0ae7	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0058	sequence:5040	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:e2c1	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0319	sequence:0ae7	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0058	sequence:5040	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:a79b	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:d623	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:375d	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:003e	sequence:337e	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:375d	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:003e	sequence:337e	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:003e	sequence:337f	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:003e	sequence:337f	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:003e	sequence:3380	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:375e	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:003e	sequence:3380	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:375e	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:003e	sequence:3381	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:003e	sequence:3381	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:003e	sequence:3382	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:375f	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:0ac8	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:003e	sequence:3382	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:375f	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:3760	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:3760	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:3761	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:3761	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:3762	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:3762	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:3763	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:3763	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:3764	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:3764	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:3765	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:3765	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:80aa	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:3766	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:3766	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:3767	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:3767	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:3768	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:3768	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:3769	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:3769	QQ_id:1171124655
+
+
+--OICQ--	src:192.168.1.108:4018 -> des:111.161.88.110:8000
+version:3703	command:0126	sequence:376a	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0126	sequence:376a	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:63c3	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:d08a	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:2188	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:00ec	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:08c7	QQ_id:1171124655
+
+
+--OICQ--	src:111.161.88.110:8000 -> des:192.168.1.108:4018
+version:3703	command:0081	sequence:4c4f	QQ_id:1171124655
+
+
+Get 500 packet	TCP: 351 packet	UDP: 94 packet	OICQ: 71 packet
